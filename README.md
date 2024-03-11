@@ -1,5 +1,7 @@
 # React Weather App
 
+![Ekran görüntüsü 2024-03-11 134216](https://github.com/ysmntysz/react-weather-app/assets/95932231/dd053915-0948-4ee7-83de-f6e58a2dc8cc)
+
 ## Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
